@@ -1,9 +1,0 @@
-[2026-03-24T16:39:41.620Z] Error [/search?q=hindi&type=track&limit=20&market=IN]: {"error":{"status":400,"message":"Invalid limit"}}
-[2026-03-24T16:40:54.765Z] Error [/search?q=Arijit%20Singh&type=track&limit=20&market=IN]: {"error":{"status":400,"message":"Invalid limit"}}
-[2026-03-24T16:41:39.567Z] Error [/search?q=Drake&type=track&limit=20&market=IN]: {"error":{"status":400,"message":"Invalid limit"}}
-[2026-03-24T16:43:51.926Z] Error [/search?q=hindi&type=track&limit=20&market=IN]: {"error":{"status":400,"message":"Invalid limit"}}
-[2026-03-24T16:44:20.173Z] Error [/search?q=hindi&type=track&limit=20&market=IN]: {"error":{"status":400,"message":"Invalid limit"}}
-[2026-03-24T16:46:09.969Z] Error [/search?q=hindi&type=track&limit=20&market=IN]: {"error":{"status":400,"message":"Invalid limit"}}
-[2026-03-24T16:46:50.995Z] Error [/search?q=hindi&type=track&limit=20&market=IN]: {"error":{"status":400,"message":"Invalid limit"}}
-[2026-03-24T16:47:58.098Z] Error [/search?q=Arijit%20Singh&type=track&limit=20&market=IN]: {"error":{"status":400,"message":"Invalid limit"}}
-[2026-03-24T16:48:35.656Z] Error [/search?q=Spotify&type=track&limit=20&market=IN]: {"error":{"status":400,"message":"Invalid limit"}}
