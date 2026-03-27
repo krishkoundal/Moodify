@@ -53,7 +53,7 @@ function VerifyOTPContent() {
         loop
         muted
         playsInline
-        className="absolute inset-0 w-full h-full object-cover z-0 opacity-40 pointer-events-none"
+        className="absolute inset-0 w-full h-full object-cover z-0 opacity-70 pointer-events-none"
       >
         <source src="/gojo-vs-sukuna.mp4" type="video/mp4" />
       </video>
