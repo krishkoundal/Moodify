@@ -59,7 +59,7 @@ function LoginContent() {
         preload="auto"
         className="absolute inset-0 w-full h-full object-cover z-0 pointer-events-none"
       >
-        <source src="/gojo-vs-sukuna.mp4" type="video/mp4" />
+        <source src="/bg.mp4" type="video/mp4" />
       </video>
 
       <div className="w-full max-w-md space-y-8 relative z-10">
