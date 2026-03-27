@@ -1,0 +1,226 @@
+[
+  {
+    "id": "1",
+    "title": "Midnight Dreams",
+    "artist": "Luna Wave",
+    "album": "Nocturnal",
+    "duration": "3:42",
+    "color": "#667eea",
+    "language": "English",
+    "cover": "https://i.ytimg.com/vi/h09UcgImwrE/hq720.jpg",
+    "url": "https://youtube.com/watch?v=h09UcgImwrE"
+  },
+  {
+    "id": "2",
+    "title": "Neon Lights",
+    "artist": "Synthwave Kids",
+    "album": "Electric",
+    "duration": "4:15",
+    "color": "#f5576c",
+    "language": "English",
+    "cover": "https://i.ytimg.com/vi/rOZiTTfkzUs/hq720.jpg",
+    "url": "https://youtube.com/watch?v=rOZiTTfkzUs"
+  },
+  {
+    "id": "3",
+    "title": "Ocean Breeze",
+    "artist": "Calm Shores",
+    "album": "Serenity",
+    "duration": "3:58",
+    "color": "#4facfe",
+    "language": "English",
+    "cover": "https://i.ytimg.com/vi/FOIjvHjK0Rw/hq720.jpg",
+    "url": "https://youtube.com/watch?v=FOIjvHjK0Rw"
+  },
+  {
+    "id": "4",
+    "title": "Rise Up",
+    "artist": "Phoenix Rising",
+    "album": "Ascend",
+    "duration": "3:30",
+    "color": "#43e97b",
+    "language": "English",
+    "cover": "https://i.ytimg.com/vi/wQfe1fWFPm0/hq720.jpg",
+    "url": "https://youtube.com/watch?v=wQfe1fWFPm0"
+  },
+  {
+    "id": "5",
+    "title": "Tum Hi Ho",
+    "artist": "Arijit Singh",
+    "album": "Aashiqui 2",
+    "duration": "4:22",
+    "color": "#fa709a",
+    "language": "Hindi",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "6",
+    "title": "Kesariya",
+    "artist": "Arijit Singh",
+    "album": "Brahmastra",
+    "duration": "4:28",
+    "color": "#a18cd1",
+    "language": "Hindi",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "7",
+    "title": "Apna Bana Le",
+    "artist": "Arijit Singh",
+    "album": "Bhediya",
+    "duration": "3:24",
+    "color": "#d57eeb",
+    "language": "Hindi",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "8",
+    "title": "Pasoori",
+    "artist": "Ali Sethi",
+    "album": "Coke Studio",
+    "duration": "3:44",
+    "color": "#8ec5fc",
+    "language": "Punjabi",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "9",
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "duration": "3:20",
+    "color": "#667eea",
+    "language": "English",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "10",
+    "title": "Stay",
+    "artist": "The Kid LAROI",
+    "album": "F*CK LOVE",
+    "duration": "2:21",
+    "color": "#f5576c",
+    "language": "English",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "11",
+    "title": "Raatan Lambiyan",
+    "artist": "Jubin Nautiyal",
+    "album": "Shershaah",
+    "duration": "3:50",
+    "color": "#4facfe",
+    "language": "Hindi",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "12",
+    "title": "Chaleya",
+    "artist": "Anirudh Ravichander",
+    "album": "Jawan",
+    "duration": "3:20",
+    "color": "#43e97b",
+    "language": "Hindi",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "13",
+    "title": "Despacito",
+    "artist": "Luis Fonsi",
+    "album": "Vida",
+    "duration": "3:48",
+    "color": "#fa709a",
+    "language": "Spanish",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "14",
+    "title": "Mi Gente",
+    "artist": "J Balvin",
+    "album": "Vibras",
+    "duration": "3:05",
+    "color": "#a18cd1",
+    "language": "Spanish",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "15",
+    "title": "Excuses",
+    "artist": "AP Dhillon",
+    "album": "Hidden Gems",
+    "duration": "2:56",
+    "color": "#d57eeb",
+    "language": "Punjabi",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "16",
+    "title": "Brown Munde",
+    "artist": "AP Dhillon",
+    "album": "Brown Munde",
+    "duration": "4:27",
+    "color": "#8ec5fc",
+    "language": "Punjabi",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "17",
+    "title": "Arabic Kuthu",
+    "artist": "Anirudh Ravichander",
+    "album": "Beast",
+    "duration": "4:40",
+    "color": "#667eea",
+    "language": "Tamil",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "18",
+    "title": "Butta Bomma",
+    "artist": "Armaan Malik",
+    "album": "AVPL",
+    "duration": "3:17",
+    "color": "#f5576c",
+    "language": "Telugu",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "19",
+    "title": "Dynamite",
+    "artist": "BTS",
+    "album": "BE",
+    "duration": "3:19",
+    "color": "#4facfe",
+    "language": "Korean",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "20",
+    "title": "La Vie En Rose",
+    "artist": "Édith Piaf",
+    "album": "Classic",
+    "duration": "3:05",
+    "color": "#43e97b",
+    "language": "French",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "21",
+    "title": "Gypsy",
+    "artist": "G.D. Kaur",
+    "album": "Haryanvi Hits",
+    "duration": "3:10",
+    "color": "#fa709a",
+    "language": "Haryanvi",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "22",
+    "title": "52 Gaj Ka Daman",
+    "artist": "Renuka Panwar",
+    "album": "Haryanvi Hits",
+    "duration": "4:05",
+    "color": "#a18cd1",
+    "language": "Haryanvi",
+    "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  }
+]
