@@ -55,11 +55,11 @@ export default function SignupPage() {
         loop
         muted
         playsInline
-        className="absolute inset-0 w-full h-full object-cover z-0 opacity-70 pointer-events-none"
+        preload="auto"
+        className="absolute inset-0 w-full h-full object-cover z-0 pointer-events-none"
       >
         <source src="/gojo-vs-sukuna.mp4" type="video/mp4" />
       </video>
-      <div className="absolute inset-0 bg-black/50 z-0 pointer-events-none" />
 
       <div className="w-full max-w-md space-y-8 relative z-10">
         <div className="text-center">
