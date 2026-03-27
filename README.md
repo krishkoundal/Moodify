@@ -59,4 +59,4 @@ This is a personal portfolio project built for **educational purposes** to demon
 
 ---
 
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by Krish Koundal*
